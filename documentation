@@ -1,0 +1,73 @@
+📊 Sales and Customer Analysis Dashboard  
+Manageperts Business Intelligence Project  
+By: Sarah Bazlamit
+
+---
+
+📌 Overview
+
+This project presents an interactive **Power BI dashboard** designed to analyze business performance across **sales, customers, time, and store operations**.
+
+The dashboard allows users to:
+- Analyze **revenue and quantity trends over time**
+- Understand **customer behavior and segmentation**
+- Evaluate **store performance across regions and store types**
+
+---
+
+🧠 Tools Used
+
+- Microsoft Power BI  
+- Power Query (Data Cleaning & Transformation)  
+- Data Modeling (Star Schema)  
+
+---
+
+🧩 Dataset
+
+The analysis is based on four main tables:
+- Customers  
+- Products  
+- Stores  
+- Transaction  
+
+---
+
+📊 Dashboard Pages
+
+⏳ Time Analysis
+- Revenue trends over time  
+- KPI cards for key metrics  
+
+👥 Customer Analysis
+- Revenue by customer  
+- Member card segmentation  
+- Income-based insights  
+
+🏪 Store Analysis
+- Revenue by store and country  
+- Store performance comparison  
+
+---
+
+📈 Key Insights
+
+- Revenue increased between 2007–2008 and peaked in early 2009  
+- A small number of customers generate most of the revenue  
+- Mid-income customers contribute the highest sales  
+- Supermarkets outperform other store types  
+
+---
+
+🚀 What I Learned
+
+- Data cleaning and transformation using Power Query  
+- Building relationships using a star schema  
+- Designing interactive dashboards  
+- Extracting business insights from data  
+
+---
+
+📬 Contact
+
+📧 Sarahbaz538@gmail.com
